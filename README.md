@@ -1,3 +1,4 @@
+![logo](https://github.com/Karthik91210/Karthik91210/blob/main/Screenshot%202025-08-13%20013328.png)
 <h1 align="center">Hi 👋, I'm KARTHIK GUNTUKA</h1>
 <h3 align="center">Aspiring Full Stack Web Developer with a strong foundation in creating responsive, user-centered web applications. Experienced in front-end development with HTML, CSS, and JavaScript, and skilled in integrating backend APIs to deliver seamless functionality. Enthusiastic about exploring AI/ML, methodologies and leveraging them to enhance web applications. Collaborative and adaptable, I thrive in dynamic team settings. and am excited to contribute to innovative projects in full-stack development.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif">
