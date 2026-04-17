@@ -1,9 +1,119 @@
-![logo](https://github.com/Karthik91210/Karthik91210/blob/main/Screenshot%202025-08-13%20013328.png)
-<h1 align="center">Hi 👋, I'm KARTHIK GUNTUKA</h1>
-<h3 align="center">Aspiring Full Stack Web Developer with a strong foundation in creating responsive, user-centered web applications. Experienced in front-end development with HTML, CSS, and JavaScript, and skilled in integrating backend APIs to deliver seamless functionality. Enthusiastic about exploring AI/ML, methodologies and leveraging them to enhance web applications. Collaborative and adaptable, I thrive in dynamic team settings. and am excited to contribute to innovative projects in full-stack development.</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif">
-<h3> How to reach me: </h3>📩karthikguntuka6@gmail.com
+<h1 align="center">Hi 👋, I'm Karthik Guntuka</h1>
+<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization</h3>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 👨‍💻 About Me
+
+🎯 Results-driven aspiring **Data Analyst** with strong skills in Python, SQL, and data visualization  
+📊 Experienced in **Exploratory Data Analysis (EDA), statistical insights, and dashboard creation**  
+📈 Passionate about transforming raw data into **actionable business insights**  
+🚀 Continuously improving analytical skills to solve real-world problems  
+
+---
+
+## 🎓 Education
+
+- 🎓 **B.Tech in CSE (AI & ML)** – JNTUH University College of Engineering, Manthani  
+  📊 GPA: 7.5/10  
+
+- 📘 Intermediate (MPC) – Sri Vani Junior College  
+  📈 Percentage: 94.6%  
+
+- 🏫 Secondary Education – Wisdom High School  
+  📊 GPA: 9.3  
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming
+- Python 🐍
+- SQL 🗄️
+
+### 📊 Data Analysis
+- Pandas  
+- NumPy  
+- Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+
+### 📈 Visualization & Tools
+- Excel  
+- Power BI  
+- Tableau  
+- Matplotlib  
+- Seaborn  
+
+### 🗄️ Databases
+- MySQL  
+
+---
+
+## 📂 Projects
+
+### 🔹 Student Mental Health Data Analysis
+- Analyzed survey data using **Python (Pandas, NumPy)**  
+- Performed **data cleaning & EDA**  
+- Created visualizations using **Matplotlib & Seaborn**  
+- Identified key factors affecting student stress  
+
+---
+
+### 🔹 E-commerce Sales Data Analysis
+- Analyzed sales data to identify trends and customer behavior  
+- Used **SQL for data extraction and analysis**  
+- Built dashboards using **Power BI / Tableau**  
+- Identified top-performing products and revenue patterns  
+
+---
+
+### 🔹 Retail Sales Dashboard
+- Cleaned and analyzed data using **Excel & Python**  
+- Built interactive dashboards to track performance  
+- Identified business trends and growth opportunities  
+
+---
+
+## 📜 Certifications & Experience
+- Machine Learning Internship – Mentorness  
+- Java Internship – Fusion Tech  
+
+---
+
+## 🌐 Languages
+- English  
+- Hindi  
+- Telugu  
+
+---
+
+## 🎯 Interests
+- 🏏 Cricket  
+- ♟️ Chess  
+- 🎵 Music  
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: karthikguntuka6@gmail.com  
+- 📱 Phone: +91 9121070424  
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 💻 GitHub: https://github.com/your-username  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+I love turning raw data into meaningful insights 📊➡️💡
