@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Analyst | Python • SQL • Power BI • Data Visualization</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Turning+Data+into+Insights📊;Data+Analysis+%7C+SQL+%7C+Power+BI;Always+Learning+New+Things🚀&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Turning+Data+into+Insights📊;Always+Learning+New+Things🚀&center=true&width=500&height=45">
 </p>
 
 ---
@@ -96,18 +96,6 @@ English | Hindi | Telugu
 ## 🎯 Interests
 
 🏏 Cricket | ♟️ Chess | 🎵 Music  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karthik91210&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthik91210&theme=tokyonight" />
-</p>
 
 ---
 
