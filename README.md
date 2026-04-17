@@ -1,82 +1,126 @@
-<h1 align="center">Karthik Guntuka</h1>
-<p align="center">
-  Data Analyst | Python • SQL • Power BI • Data Visualization
-</p>
+<h1 align="center">Hi 👋, I'm Karthik Guntuka</h1>
+<h3 align="center">Aspiring Data Analyst | Python • SQL • Power BI • Data Visualization</h3>
 
 <p align="center">
-  <a href="mailto:karthikguntuka6@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/karthik-guntuka">LinkedIn</a> •
-  <a href="https://github.com/Karthik91210">GitHub</a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Turning+Data+into+Insights📊;Data+Analysis+%7C+SQL+%7C+Power+BI;Always+Learning+New+Things🚀&center=true&width=500&height=45">
 </p>
 
 ---
 
-## About
+## 🧠 About Me
 
-Results-driven aspiring **Data Analyst** with strong skills in Python, SQL, and data visualization.  
-Experienced in **Exploratory Data Analysis (EDA), dashboard creation, and statistical insights**.  
-Focused on transforming raw data into **meaningful business decisions**.
-
----
-
-## Skills
-
-**Programming:** Python, SQL  
-**Data Analysis:** Pandas, NumPy, Data Cleaning, EDA  
-**Visualization:** Power BI, Tableau, Matplotlib, Seaborn, Excel  
-**Database:** MySQL  
+🎯 Results-driven aspiring **Data Analyst**  
+📊 Skilled in **EDA, Data Visualization & Dashboard Creation**  
+📈 Transforming raw data into **actionable insights**  
+🚀 Passionate about solving real-world business problems  
 
 ---
 
-## Projects
+## 🛠️ Tech Stack
 
-### Student Mental Health Analysis
-- Performed EDA using Python (Pandas, NumPy)  
-- Built visualizations to identify stress factors  
-- Derived insights on student well-being  
+<p align="center">
 
-### E-commerce Sales Analysis
-- Used SQL for data extraction and analysis  
-- Built dashboards using Power BI  
-- Identified revenue trends and customer behavior  
+![Python](https://img.shields.io/badge/Python-blue?logo=python&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-orange?logo=mysql&style=for-the-badge)
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi&style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-green?logo=microsoft-excel&style=for-the-badge)
 
-### Retail Sales Dashboard
-- Cleaned and analyzed data using Excel & Python  
-- Built dashboards for performance tracking  
-- Provided actionable business insights  
-
----
-
-## Education
-
-B.Tech (CSE - AI & ML) – JNTUH University College of Engineering  
-Intermediate – 94.6%  
-SSC – 9.3 GPA  
-
----
-
-## Tools
-
-<p>
-<img src="https://img.shields.io/badge/Python-blue?logo=python">
-<img src="https://img.shields.io/badge/SQL-orange?logo=mysql">
-<img src="https://img.shields.io/badge/PowerBI-yellow?logo=powerbi">
-<img src="https://img.shields.io/badge/Excel-green?logo=microsoft-excel">
 </p>
 
 ---
 
-## Focus
+## 📊 Skills
 
-- Data Cleaning & Analysis  
-- Dashboard Development  
-- Business Insights Generation  
-- SQL Query Optimization  
+### 💻 Programming
+- Python 🐍  
+- SQL 🗄️  
+
+### 📈 Data Analysis
+- Pandas  
+- NumPy  
+- Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+
+### 📊 Visualization
+- Power BI  
+- Tableau  
+- Matplotlib  
+- Seaborn  
+- Excel  
+
+### 🗄️ Database
+- MySQL  
 
 ---
 
-## Contact
+## 📂 Projects
 
-Email: karthikguntuka6@gmail.com  
-LinkedIn: https://www.linkedin.com/in/karthik-guntuka  
-GitHub: https://github.com/Karthik91210  
+### 🔹 Student Mental Health Data Analysis
+✔ Analyzed survey data using Python (Pandas, NumPy)  
+✔ Performed data cleaning & EDA  
+✔ Created visualizations using Matplotlib & Seaborn  
+✔ Identified key stress factors  
+
+---
+
+### 🔹 E-commerce Sales Data Analysis
+✔ Used SQL for data extraction  
+✔ Built dashboards using Power BI / Tableau  
+✔ Identified customer behavior & revenue trends  
+
+---
+
+### 🔹 Retail Sales Dashboard
+✔ Cleaned data using Excel & Python  
+✔ Built interactive dashboards  
+✔ Generated business insights for growth  
+
+---
+
+## 🎓 Education
+
+🎓 B.Tech (CSE - AI & ML) – JNTUH University College of Engineering  
+📊 GPA: 7.5  
+
+📘 Intermediate – Sri Vani Junior College (94.6%)  
+🏫 SSC – Wisdom High School (9.3 GPA)  
+
+---
+
+## 🌐 Languages
+
+English | Hindi | Telugu  
+
+---
+
+## 🎯 Interests
+
+🏏 Cricket | ♟️ Chess | 🎵 Music  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karthik91210&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthik91210&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="mailto:karthikguntuka6@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/karthik-guntuka"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://github.com/Karthik91210"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💡 I love turning raw data into meaningful insights 📊➡️💡
