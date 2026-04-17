@@ -1,31 +1,24 @@
 <h1 align="center">Hi 👋, I'm Karthik Guntuka</h1>
-<h3 align="center">🚀 Aspiring Data Analyst | Python • SQL • Power BI • Data Visualization</h3>
+<h3 align="center">Aspiring Data Analyst | Python • SQL • Power BI • Data Visualization</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Turning+Data+into+Insights📊;SQL+%7C+Python+%7C+Power+BI;Data+Driven+Decision+Maker🚀;Always+Learning+New+Things&center=true&width=600&height=50">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karthik91210&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Turning+Data+into+Insights📊;Data+Analysis+%7C+SQL+%7C+Power+BI;Always+Learning+New+Things🚀&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 🧠 About Me
 
-💡 Passionate **Data Analyst** who loves solving real-world problems using data  
-📊 Strong in **EDA, Data Cleaning, Visualization & Dashboarding**  
-📈 Skilled at converting raw data into **actionable insights**  
-🎯 Focused on building a career in **Data Analytics & Business Intelligence**
+🎯 Results-driven aspiring **Data Analyst**  
+📊 Skilled in **EDA, Data Visualization & Dashboard Creation**  
+📈 Transforming raw data into **actionable insights**  
+🚀 Passionate about solving real-world business problems  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-<br><br>
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-orange?logo=mysql&style=for-the-badge)
@@ -36,45 +29,51 @@
 
 ---
 
-## 📊 What I Do
+## 📊 Skills
 
-✔ Clean & preprocess raw datasets  
-✔ Perform Exploratory Data Analysis (EDA)  
-✔ Build dashboards using Power BI  
-✔ Write optimized SQL queries  
-✔ Generate business insights & reports  
+### 💻 Programming
+- Python 🐍  
+- SQL 🗄️  
 
----
+### 📈 Data Analysis
+- Pandas  
+- NumPy  
+- Data Cleaning  
+- Exploratory Data Analysis (EDA)  
 
-## 🚀 Featured Projects
+### 📊 Visualization
+- Power BI  
+- Tableau  
+- Matplotlib  
+- Seaborn  
+- Excel  
 
-### 📌 Student Mental Health Analysis
-🔹 Performed EDA using Python (Pandas, NumPy)  
-🔹 Visualized insights using Seaborn & Matplotlib  
-🔹 Identified key stress factors affecting students  
-
----
-
-### 📌 E-commerce Sales Analysis
-🔹 SQL-based data extraction & analysis  
-🔹 Built dashboards using Power BI  
-🔹 Discovered revenue trends & customer behavior  
+### 🗄️ Database
+- MySQL  
 
 ---
 
-### 📌 Retail Sales Dashboard
-🔹 Cleaned data using Excel & Python  
-🔹 Created interactive dashboards  
-🔹 Generated insights for business growth  
+## 📂 Projects
+
+### 🔹 Student Mental Health Data Analysis
+✔ Analyzed survey data using Python (Pandas, NumPy)  
+✔ Performed data cleaning & EDA  
+✔ Created visualizations using Matplotlib & Seaborn  
+✔ Identified key stress factors  
 
 ---
 
-## 📸 Project Visuals (Add Your Screenshots Here)
+### 🔹 E-commerce Sales Data Analysis
+✔ Used SQL for data extraction  
+✔ Built dashboards using Power BI / Tableau  
+✔ Identified customer behavior & revenue trends  
 
-<p align="center">
-  <img src="https://via.placeholder.com/400x200.png?text=Power+BI+Dashboard" />
-  <img src="https://via.placeholder.com/400x200.png?text=Data+Analysis+Graphs" />
-</p>
+---
+
+### 🔹 Retail Sales Dashboard
+✔ Cleaned data using Excel & Python  
+✔ Built interactive dashboards  
+✔ Generated business insights for growth  
 
 ---
 
@@ -83,42 +82,14 @@
 🎓 B.Tech (CSE - AI & ML) – JNTUH University College of Engineering  
 📊 GPA: 7.5  
 
-📘 Intermediate – 94.6%  
-🏫 SSC – 9.3 GPA  
+📘 Intermediate – Sri Vani Junior College (94.6%)  
+🏫 SSC – Wisdom High School (9.3 GPA)  
 
 ---
 
-## 📊 GitHub Analytics
+## 🌐 Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karthik91210&show_icons=true&theme=tokyonight&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthik91210&theme=tokyonight&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik91210&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Karthik91210/Karthik91210/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="mailto:karthikguntuka6@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/karthik-guntuka"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://github.com/Karthik91210"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-</p>
+English | Hindi | Telugu  
 
 ---
 
@@ -128,6 +99,28 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karthik91210&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthik91210&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="mailto:karthikguntuka6@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/karthik-guntuka"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://github.com/Karthik91210"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
 ## ⚡ Fun Fact
 
-💡 I turn messy data into meaningful insights 📊➡️💡
+💡 I love turning raw data into meaningful insights 📊➡️💡
