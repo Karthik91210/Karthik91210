@@ -74,12 +74,6 @@
 
 ---
 
-## 📜 Certifications & Experience
-- Machine Learning Internship – Mentorness  
-- Java Internship – Fusion Tech  
-
----
-
 ## 🌐 Languages
 - English  
 - Hindi  
@@ -98,20 +92,8 @@
 
 - 📧 Email: karthikguntuka6@gmail.com  
 - 📱 Phone: +91 9121070424  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 💻 GitHub: https://github.com/your-username  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
-</p>
+- 💼 LinkedIn: www.linkedin.com/in/karthik-guntuka  
+- 💻 GitHub: https://github.com/Karthik91210  
 
 ---
 
